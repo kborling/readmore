@@ -22,3 +22,11 @@
     font-style: normal;
 }
 
+/* Read More Plugin Styling */
+.readmore-js-toggle, .readmore-js-section {
+  display: block;
+  width: 100%;
+}
+.readmore-js-section {
+  overflow: hidden;
+}
